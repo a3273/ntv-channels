@@ -1,0 +1,108 @@
+{
+  "channels": [
+    {
+      "name": "Sky Sport 24 NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png",
+      "group": "Italy",
+      "streams": [
+        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "869", "url": ""}
+      ]
+    },
+    {
+      "name": "Sky Sport Uno NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png",
+      "group": "Italy",
+      "streams": [
+        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "461", "url": ""}
+      ]
+    },
+    {
+      "name": "Sky Sport Calcio NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png",
+      "group": "Italy",
+      "streams": [
+        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "870", "url": ""}
+      ]
+    },
+    {
+      "name": "Sky Sport Tennis NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png",
+      "group": "Italy",
+      "streams": [
+        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "576", "url": ""}
+      ]
+    },
+    {
+      "name": "Sky Sport Arena NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png",
+      "group": "Italy",
+      "streams": [
+        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "462", "url": ""}
+      ]
+    },
+    {
+      "name": "Sky Sport Basket NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png",
+      "group": "Italy",
+      "streams": [
+        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "875", "url": ""}
+      ]
+    },
+    {
+      "name": "Sky Sport Max NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png",
+      "group": "Italy",
+      "streams": [
+        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "460", "url": ""}
+      ]
+    },
+    {
+      "name": "Sky Sport F1 NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png",
+      "group": "Italy",
+      "streams": [
+        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "577", "url": ""}
+      ]
+    },
+    {
+      "name": "Sky Sport MotoGP NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png",
+      "group": "Italy",
+      "streams": [
+        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "575", "url": ""}
+      ]
+    },
+    {
+      "name": "Sky Sport Golf NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png",
+      "group": "Italy",
+      "streams": [
+        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "574", "url": ""}
+      ]
+    },
+    {
+      "name": "DAZN 1 NTV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/DAZN_1_logo.png",
+      "group": "Italy",
+      "streams": [
+        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "877", "url": ""}
+      ]
+    },
+    {
+      "name": "Eurosport 1 NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png",
+      "group": "Italy",
+      "streams": [
+        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "878", "url": ""}
+      ]
+    },
+    {
+      "name": "Eurosport 2 NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png",
+      "group": "Italy",
+      "streams": [
+        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "879", "url": ""}
+      ]
+    }
+  ]
+}
