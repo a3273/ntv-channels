@@ -45,5 +45,9 @@ https://sim11.val.run/ntv-stream/live?ch=574
 https://sim11.val.run/ntv-stream/live?ch=877
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:network-caching=15000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Italy",Eurosport 1 NTV
+https://sim11.val.run/ntv-stream/live?ch=878
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:network-caching=15000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Italy",Eurosport 2 NTV
 https://sim11.val.run/ntv-stream/live?ch=879
