@@ -1,7 +1,6 @@
 {
-  "base": "https://tvnow247.top",
-  "fallbacks": ["https://tv247us.live"],
-  "fingerprint": "tvnow247",
+  "edge": "https://edge.cowedd4855ws.sbs",
+  "fallbacks": [],
   "chunk": "https://chunk.tvnow247.today",
   "chunk_fallbacks": [],
   "api": "https://chat.cfbu247.sbs",
