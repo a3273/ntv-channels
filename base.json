@@ -1,8 +1,7 @@
 {
-  "edge": "https://edge.cowedd4855ws.sbs",
-  "fallbacks": [],
-  "chunk": "https://chunk.tvnow247.today",
-  "chunk_fallbacks": [],
+  "worker": "https://resolvers.simone-scorrano-2011.workers.dev",
   "api": "https://chat.cfbu247.sbs",
-  "edges": ["https://edge.cowedd4855ws.sbs"]
+  "endpoint": "/api/resolve-dlstream/<id>",
+  "chunk": "https://chunk.tvnow247.today",
+  "note": "edge.cowedd4855ws.sbs morto (530) e non piu usato; token 24h rinnovati dal worker"
 }
