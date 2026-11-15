@@ -51,3 +51,55 @@ https://resolvers.simone-scorrano-2011.workers.dev/live?ch=878
 #EXTVLCOPT:network-caching=10000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Italy",Eurosport 2 NTV
 https://resolvers.simone-scorrano-2011.workers.dev/live?ch=879
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:network-caching=10000
+#EXTINF:-1 tvg-logo="https://www.tvlogo.org/italy/sky-sport-it.png" group-title="Italy",Sky Calcio 251 NTV
+https://resolvers.simone-scorrano-2011.workers.dev/live?ch=871
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:network-caching=10000
+#EXTINF:-1 tvg-logo="https://www.tvlogo.org/italy/sky-sport-it.png" group-title="Italy",Sky Calcio 252 NTV
+https://resolvers.simone-scorrano-2011.workers.dev/live?ch=872
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:network-caching=10000
+#EXTINF:-1 tvg-logo="https://www.tvlogo.org/italy/sky-sport-it.png" group-title="Italy",Sky Calcio 253 NTV
+https://resolvers.simone-scorrano-2011.workers.dev/live?ch=873
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:network-caching=10000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Italy",Sky Cinema Uno NTV
+https://resolvers.simone-scorrano-2011.workers.dev/live?ch=860
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:network-caching=10000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Italy",Sky Cinema Action NTV
+https://resolvers.simone-scorrano-2011.workers.dev/live?ch=861
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:network-caching=10000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Italy",Sky Cinema Comedy NTV
+https://resolvers.simone-scorrano-2011.workers.dev/live?ch=862
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:network-caching=10000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Italy",Sky Cinema Collection NTV
+https://resolvers.simone-scorrano-2011.workers.dev/live?ch=859
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:network-caching=10000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Italy",Sky Cinema Romance NTV
+https://resolvers.simone-scorrano-2011.workers.dev/live?ch=864
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:network-caching=10000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Italy",Sky Cinema Family NTV
+https://resolvers.simone-scorrano-2011.workers.dev/live?ch=865
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:network-caching=10000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Italy",Sky Cinema Drama NTV
+https://resolvers.simone-scorrano-2011.workers.dev/live?ch=867
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:network-caching=10000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Italy",Sky Cinema Suspense NTV
+https://resolvers.simone-scorrano-2011.workers.dev/live?ch=868
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:network-caching=10000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-crime-it.png" group-title="Italy",Sky Crime NTV
+https://resolvers.simone-scorrano-2011.workers.dev/live?ch=863
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:network-caching=10000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Italy",Sky Serie NTV
+https://resolvers.simone-scorrano-2011.workers.dev/live?ch=880
