@@ -5,7 +5,13 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png",
       "group": "Italy",
       "streams": [
-        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "869", "url": ""}
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "869",
+          "url": ""
+        }
       ]
     },
     {
@@ -13,7 +19,13 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png",
       "group": "Italy",
       "streams": [
-        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "461", "url": ""}
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "461",
+          "url": ""
+        }
       ]
     },
     {
@@ -21,7 +33,13 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png",
       "group": "Italy",
       "streams": [
-        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "870", "url": ""}
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "870",
+          "url": ""
+        }
       ]
     },
     {
@@ -29,7 +47,13 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png",
       "group": "Italy",
       "streams": [
-        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "576", "url": ""}
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "576",
+          "url": ""
+        }
       ]
     },
     {
@@ -37,7 +61,13 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png",
       "group": "Italy",
       "streams": [
-        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "462", "url": ""}
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "462",
+          "url": ""
+        }
       ]
     },
     {
@@ -45,7 +75,13 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png",
       "group": "Italy",
       "streams": [
-        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "875", "url": ""}
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "875",
+          "url": ""
+        }
       ]
     },
     {
@@ -53,7 +89,13 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png",
       "group": "Italy",
       "streams": [
-        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "460", "url": ""}
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "460",
+          "url": ""
+        }
       ]
     },
     {
@@ -61,7 +103,13 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png",
       "group": "Italy",
       "streams": [
-        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "577", "url": ""}
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "577",
+          "url": ""
+        }
       ]
     },
     {
@@ -69,7 +117,13 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png",
       "group": "Italy",
       "streams": [
-        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "575", "url": ""}
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "575",
+          "url": ""
+        }
       ]
     },
     {
@@ -77,7 +131,13 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png",
       "group": "Italy",
       "streams": [
-        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "574", "url": ""}
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "574",
+          "url": ""
+        }
       ]
     },
     {
@@ -85,7 +145,13 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/DAZN_1_logo.png",
       "group": "Italy",
       "streams": [
-        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "877", "url": ""}
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "877",
+          "url": ""
+        }
       ]
     },
     {
@@ -93,7 +159,13 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png",
       "group": "Italy",
       "streams": [
-        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "878", "url": ""}
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "878",
+          "url": ""
+        }
       ]
     },
     {
@@ -101,7 +173,195 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png",
       "group": "Italy",
       "streams": [
-        {"name": "ntv", "provider": "ntv", "priority": 1, "query": "879", "url": ""}
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "879",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Sky Calcio 251 NTV",
+      "logo": "https://www.tvlogo.org/italy/sky-sport-it.png",
+      "group": "Italy",
+      "streams": [
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "871",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Sky Calcio 252 NTV",
+      "logo": "https://www.tvlogo.org/italy/sky-sport-it.png",
+      "group": "Italy",
+      "streams": [
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "872",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Sky Calcio 253 NTV",
+      "logo": "https://www.tvlogo.org/italy/sky-sport-it.png",
+      "group": "Italy",
+      "streams": [
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "873",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Sky Cinema Uno NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png",
+      "group": "Italy",
+      "streams": [
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "860",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Sky Cinema Action NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png",
+      "group": "Italy",
+      "streams": [
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "861",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Sky Cinema Comedy NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png",
+      "group": "Italy",
+      "streams": [
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "862",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Sky Cinema Collection NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png",
+      "group": "Italy",
+      "streams": [
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "859",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Sky Cinema Romance NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png",
+      "group": "Italy",
+      "streams": [
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "864",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Sky Cinema Family NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png",
+      "group": "Italy",
+      "streams": [
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "865",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Sky Cinema Drama NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png",
+      "group": "Italy",
+      "streams": [
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "867",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Sky Cinema Suspense NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png",
+      "group": "Italy",
+      "streams": [
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "868",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Sky Crime NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-crime-it.png",
+      "group": "Italy",
+      "streams": [
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "863",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Sky Serie NTV",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png",
+      "group": "Italy",
+      "streams": [
+        {
+          "name": "NTV",
+          "provider": "ntv",
+          "priority": 1,
+          "query": "880",
+          "url": ""
+        }
       ]
     }
   ]
